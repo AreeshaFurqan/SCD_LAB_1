@@ -1,12 +1,15 @@
 
 public class scdlab1 {
-
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		system.out.println('comitting changes in branch');
+		system.out.println('comitting changes in branch');
+		system.out.println('comitting changes in branch');
+		system.out.println('comitting changes in branch');
+		system.out.println('comitting changes in branch');
+		system.out.println('comitting changes in branch');
+		system.out.println('comitting changes in branch');
+		system.out.println('comitting changes in branch');
+		system.out.println('comitting changes in branch');
 	}
 
 }
